@@ -1,0 +1,6 @@
+# number 2
+
+age = 72
+age_str = str(age)
+name = "esme"
+print("name: " + name + ", " + age_str)  
